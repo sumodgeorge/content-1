@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/demisto/content#readme",
   "dependencies": {
-    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/mdx": "^2.0.0",
     "commander": "^5.1.0",
     "fs-extra": "^8.1.0",
-    "jsdoc-to-markdown": "^7.1.1",
+    "jsdoc-to-markdown": "^8.0.2",
     "mdx": "^0.2.3"
   }
 }
